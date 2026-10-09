@@ -9,4 +9,8 @@ Create meaning project on OOPS Concept :
 *Construction
 *Data Abstraction
 *Arguments
+*Encapsulation 
+*Polymorphism
+
+
 
